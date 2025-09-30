@@ -1,4 +1,4 @@
-# Radiator - RADIUS Orchestrator for MFA
+# Radiator-X - RADIUS Orchestrator for MFA
 
 Radiator is a clean-room, open-core starter for building a **RADIUS AAA proxy with MFA orchestration**.
 It uses **FreeRADIUS** for the RADIUS plane and a **FastAPI** service for policies, MFA (TOTP now, Push later),
