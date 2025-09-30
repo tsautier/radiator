@@ -1,0 +1,7 @@
+Security Policy
+⦁	Debian CIS hardening on VM targets
+⦁	Enforce TLS 1.3 for admin plane, use mTLS
+⦁	Rotate API tokens and DB credentials regularly
+⦁	Log minimal PII; prefer pseudonymous identifiers
+⦁	TOTP with rate limiting and step-up policies
+⦁	Keep FreeRADIUS and OS packages up-to-date
