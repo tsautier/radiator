@@ -1,0 +1,10 @@
+Radiator-X - NOTICE
+
+Copyright (c) 2025 Thomas SAUTIER
+
+Includes or references third-party components:
+- FreeRADIUS (via Docker base image) under GPLv2+. Comply with GPL for those portions.
+Trademarks:
+- "Radiator" and associated logos may be protected. See trademark law in your jurisdiction.
+
+See licensing.md for details.
