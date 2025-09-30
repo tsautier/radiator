@@ -61,4 +61,5 @@ tests/          Basic tests
 - Keep secrets out of the repo. Use `.env` or an external secret store.
 
 ## License
-AGPL-3.0-only for the starter. Consider an open-core model for proprietary connectors.
+**SSPL‑1.0 (community edition)** — strong service copyleft matching the publication requirement.
+A **commercial license** is available for users who cannot publish their changes. See `docs/licensing.md`.
